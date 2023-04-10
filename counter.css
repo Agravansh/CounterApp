@@ -1,0 +1,40 @@
+.counter {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .count {
+    font-size: 3em;
+    margin-bottom: 20px;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 5px;
+    width: 100px;
+  }
+  
+  .increment-by-user {
+    display: flex;
+    align-items: center;
+  }
+  
+
